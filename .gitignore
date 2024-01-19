@@ -9,7 +9,6 @@ model_weights/
 *.ckpt
 
 # Ignore large data files and datasets
-data/
 *.csv
 *.txt
 *.json
