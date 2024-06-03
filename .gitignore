@@ -2,3 +2,7 @@ lip_venv/
 data/
 final_dataset/
 dataset/
+/english_model_weights
+/test_chunks
+/train_chunks
+/val_chunks
